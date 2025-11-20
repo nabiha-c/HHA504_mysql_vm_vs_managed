@@ -7,7 +7,7 @@ This project compares two ways of running MySQL in the cloud:
 The goal was to connect to both using Python (SQLAlchemy + pandas), create a database and table, insert data, and read it back.
 
 I used **Google Cloud Platform (GCP)** for everything.  
-Region: <us-central1>
+Region: us-central1
 
 ---
 
@@ -82,6 +82,6 @@ All screenshots are under /screenshots.
 
 ---
 
-## Demo Video (2–4 minutes)
-Link to recording:  
-<insert your Loom or Zoom link here>
+## Demo Video
+[Watch here](https://drive.google.com/file/d/1BF7-VinowarIp2_OKsChXkVr9uRcarSe/view?usp=sharing)
+
